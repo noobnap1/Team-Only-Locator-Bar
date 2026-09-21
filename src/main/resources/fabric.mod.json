@@ -19,7 +19,7 @@
 		"team-only-locator-bar.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.18.4",
+		"fabricloader": ">=${loader_version}",
 		"java": ">=25"
 	}
 }
